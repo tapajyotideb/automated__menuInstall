@@ -1,6 +1,6 @@
 import subprocess as sp
 import os 
-import pyfiglet as pf
+#import pyfiglet as pf
 
 def ip_input():
 	ip1 = input()

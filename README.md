@@ -9,3 +9,7 @@ Target system under consideration - RPM based (RHEL, CentOS, etc.)
 Dependencies to be considered preinstalled-
 1. Yum repository
 2. Python36
+
+Some packages need to be downloaded before running the program(no requirement to install) - 
+1. Hadoop-1.2.1
+2. jdk-8u171
